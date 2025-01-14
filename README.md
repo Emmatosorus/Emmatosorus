@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Emmatosorus
+# **👋 Hi, I’m @Emmatosorus**
+- 🧑‍🎓 I'm a student at 42 Lyon Auvergne Rhone Alpes 
 - 👀 I’m interested in video games, but i enjoy most forms of coding
-- 🌱 I’m currently learning javascript
 - 🤓 I know : C, C++, Javascript and a little bit of Python
 - 📫 To reach me please contact : epolitze@student.42lyon.fr
 - 😄 My pronouns are : She/Her
