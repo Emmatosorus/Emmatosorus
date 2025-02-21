@@ -14,10 +14,10 @@
   - 😄 Pronouns: **She/Her**
 
 → **Pinned Projects**  
-  - 🎮 **[So_long](https://github.com/yourusername/so_long)**  
+  - 🎮 **[So_long](https://github.com/Emmatosorus/so_long)**  
     A small and chill 2D game written in **C**. It’s a simple game where you navigate and collect items, all in a style inspired by tunic! 
 
-  - 💬 **[IRC](https://github.com/yourusername/IRC)**  
+  - 💬 **[IRC](https://github.com/Emmatosorus/IRC)**  
     An **IRC server** but also an **AI bot** connected to the chatGPT API. And a small bot for managing a dictionary of forbidden words that channel operators can add or remove from.
     The bot will alert operators when a forbidden word is detected in chat!
 
