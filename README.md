@@ -13,6 +13,16 @@
   - 🌍 **Bilingual**: Fluent in both English 🇬🇧 and French 🇫🇷!  
   - 😄 Pronouns: **She/Her**
 
+
+→ **Group Projects**
+  - 🐚 **Minishell**
+    A small shell, written in **C**. Inspired by bash, you can use pipes, and/or, redirections, parentheses, heredocs and here strings to navigate your terminal.
+    Includes : cd, echo, export, unset, pwd, env and exit.
+
+  - 🧊 **Cube3D**
+    A small raycasting project written in **C**. Run a map or create your own and navigate a walled off map.
+    Inspired by wolfenstein but without the gameplay 😉
+
 → **Pinned Projects**  
   - 🎮 **[So_long](https://github.com/Emmatosorus/so_long)**  
     A small and chill 2D game written in **C**. It’s a simple game where you navigate and collect items, all in a style inspired by tunic! 
